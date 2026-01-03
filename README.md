@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on new projects <br>🌱 I’m currently learning " Data Engineering"<br>💬 Ask me about python, java ,data -acquisition <br>
+🔭 I’m currently Working on new projects <br>🌱  Learning "Data Engineering"<br>💬 Ask me about python, java ,data -acquisition <br>
 
 
 ## 🌐 Socials:
